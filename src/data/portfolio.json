@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/McGill.png", 
+            "title": "Vacation Planner", 
+            "description": "Android, Gradle, Spring Boot", 
+            "url": "https://github.com/KarimBarh10/vacation-planner/"
+        },
+        {
+            "cover": "/portfolio/bank.png", 
+            "title": "Banking System Management", 
+            "description": "Spring Boot, mySQL", 
+            "url": "https://github.com/KarimBarh10/Bank-System-Management"
+        },
+        {
+            "cover": "/portfolio/recipe-app.png", 
+            "title": "Recipe Application", 
+            "description": "Android, Gradle, Spring Boot", 
+            "url": "https://github.com/KarimBarh10/RecipeBook"
+        }  
+    ]
+}
